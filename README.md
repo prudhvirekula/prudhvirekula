@@ -22,7 +22,13 @@
 
 ###
 
-<p align="left">Masters of Science Candidate at Pace University in the field of Computer Science. Passionate about technology and continuously seeking to expand knowledge and skills. Skilled in data structures, algorithms, database systems, and software engineering. Strong analytical and problem-solving skills, quick learning abilities, and experience working collaboratively. Excited by the prospect of supporting a technology team and providing new perspectives as an intern. Actively seeking for internship's where I can utilize my technical skills and grow as a computer science professional.</p>
+<p align="left">As a Computer Science Graduate Student at Pace University, I am deeply passionate about technology and always eager to learn more. My skills include proficiency in Java, Python, and C++, along with expertise in data structures, algorithms, database systems, and software engineering. I excel in problem-solving and thrive in collaborative environments, where I contribute actively to team goals.
+
+In pursuit of enhancing my skills and gaining practical experience, I am keen to embark on an internship journey. I aim to bring fresh perspectives and innovative ideas to technology teams while further honing my abilities. My goal is to actively contribute to the success of dynamic tech teams by leveraging my knowledge and enthusiasm.
+
+I have successfully completed full-stack projects involving the development of efficient algorithms for data processing, and I have contributed to the creation of robust database systems. Additionally, I have collaborated with peers on cybersecurity projects, delivering high-quality solutions within tight deadlines.
+
+Currently, I am actively seeking internship opportunities where I can apply my technical expertise and continue to grow as a computer science professional. I am excited about the prospect of contributing to your team's success and eager to explore how I can make meaningful contributions. Let's connect and discuss potential opportunities. You can reach me at pr45629n@pace.edu.</p>
 
 ###
 
