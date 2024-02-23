@@ -22,13 +22,13 @@
 
 ###
 
-<p align="left">As a Computer Science Graduate Student at Pace University, I am deeply passionate about technology and always eager to learn more. My skills include proficiency in Java, Python, and C++, along with expertise in data structures, algorithms, database systems, and software engineering. I excel in problem-solving and thrive in collaborative environments, where I contribute actively to team goals.
+<p align="left">As a Computer Science Graduate Student at Pace University, my passion for technology is matched only by my hunger for knowledge. Proficient in Java, Python, and C++, I specialize in data structures, algorithms, database systems, and software engineering. I thrive in collaborative environments, where I actively contribute to team goals and excel in problem-solving. 
 
 In pursuit of enhancing my skills and gaining practical experience, I am keen to embark on an internship journey. I aim to bring fresh perspectives and innovative ideas to technology teams while further honing my abilities. My goal is to actively contribute to the success of dynamic tech teams by leveraging my knowledge and enthusiasm.
 
-I have successfully completed full-stack projects involving the development of efficient algorithms for data processing, and I have contributed to the creation of robust database systems. Additionally, I have collaborated with peers on cybersecurity projects, delivering high-quality solutions within tight deadlines.
+Throughout my professional journey, I have undertaken various projects. One of them is Pizza World, where I led the development of a comprehensive web application facilitating seamless pizza ordering, managing both frontend and backend development to ensure a smooth user experience from selection to checkout. Another project involved leveraging deep learning and image analysis techniques for distracted driver detection, where I spearheaded the implementation of robust algorithms to analyze real-time video feeds, contributing to enhanced road safety measures. Additionally, I've successfully completed full-stack projects, developing efficient algorithms for data processing and contributing to the creation of robust database systems. I've also collaborated on cybersecurity projects, delivering high-quality solutions within tight deadlines. 
 
-Currently, I am actively seeking internship opportunities where I can apply my technical expertise and continue to grow as a computer science professional. I am excited about the prospect of contributing to your team's success and eager to explore how I can make meaningful contributions. Let's connect and discuss potential opportunities. You can reach me at pr45629n@pace.edu.</p>
+Currently seeking internship opportunities to apply my technical expertise and continue growing as a computer science professional. Eager to contribute to dynamic tech teams, I bring fresh perspectives and innovative ideas. Let's connect and explore how I can make meaningful contributions to your team's success. Reach me at pr45629n@pace.edu</p>
 
 ###
 
